@@ -23,7 +23,7 @@ imageElement.setAttribute('alt', `Profile image of ${fullName}`);
 
 /* Step 5 - Array */
 let favFoods = ['Venison', 'Lasagna','Pizza','Ice Cream'];
-foodElement.innerHTML = favFoods.join('<br>');
+foodElement.innerHTML = favFoods.join();
 const newFavFood = 'Chocolate';
 favFoods.push(newFavFood);
 foodElement.innerHTML = favFoods.join('<br>');
