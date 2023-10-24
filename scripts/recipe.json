@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Classic Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "fresh mozzarella cheese",
+            "fresh basil leaves",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "instructions": "1. Preheat oven to 475°F (245°C). \n2. Roll out the pizza dough and place it on a baking sheet. \n3. Spread tomato sauce over the dough. \n4. Add slices of fresh mozzarella cheese and sprinkle with salt and black pepper. \n5. Bake in the preheated oven for 12-15 minutes or until the crust is golden and cheese is melted. \n6. Remove from the oven, top with fresh basil leaves, and drizzle with olive oil. Slice and serve.",
+        "image": "images/pexels-valeria-boltneva-10875220.jpg"
+    },
+    {
+        "title": "Chicken Alfredo Pasta",
+        "ingredients": [
+            "fettuccine pasta",
+            "chicken breast",
+            "heavy cream",
+            "Parmesan cheese",
+            "butter",
+            "garlic",
+            "salt",
+            "black pepper"
+        ],
+        "instructions": "1. Cook fettuccine pasta according to package instructions. \n2. Season chicken breast with salt and black pepper, then cook in a pan until no longer pink. \n3. In another pan, melt butter and sauté minced garlic until fragrant. \n4. Pour in heavy cream and bring to a simmer. \n5. Add grated Parmesan cheese and stir until the sauce thickens. \n6. Toss cooked pasta in the Alfredo sauce. Slice cooked chicken and place on top. Serve hot.",
+        "image": "images/pexels-biel-heinrich-9760213.jpg"
+    },
+    {
+        "title": "Classic Beef Burger",
+        "ingredients": [
+            "ground beef",
+            "hamburger buns",
+            "cheddar cheese",
+            "lettuce",
+            "tomato",
+            "onion",
+            "pickles",
+            "ketchup",
+            "mustard"
+        ],
+        "instructions": "1. Preheat grill or stovetop griddle. \n2. Form ground beef into burger patties, season with salt and black pepper. \n3. Grill patties for 3-4 minutes per side, or until cooked to your liking. \n4. Toast hamburger buns on the grill. \n5. Assemble the burger: place lettuce, tomato, and onion on the bottom bun. Add the cooked patty, cheddar cheese, and pickles. Spread ketchup and mustard on the top bun. Put the top bun on the burger. Serve immediately.",
+        "image": "images/pexels-daniel-reche-1556688.jpg"
+    },
+    {
+        "title": "Pasta Primavera",
+        "ingredients": [
+            "linguine pasta",
+            "broccoli",
+            "carrots",
+            "bell peppers",
+            "cherry tomatoes",
+            "olive oil",
+            "garlic",
+            "Parmesan cheese",
+            "salt",
+            "black pepper"
+        ],
+        "instructions": "1. Cook linguine pasta according to package instructions. \n2. Blanch broccoli, carrots, and bell peppers in boiling water for 2 minutes. \n3. In a pan, heat olive oil and sauté minced garlic until golden. \n4. Add blanched vegetables and cherry tomatoes. Cook for 2-3 minutes. \n5. Toss cooked pasta in the vegetable mixture. Season with salt and black pepper. \n6. Serve hot, garnished with grated Parmesan cheese.",
+        "image": "images/pexels-monica-turlui-7218637.jpg"
+    },
+    {
+        "title": "Vegetable Stir Fry",
+        "ingredients": [
+            "tofu",
+            "broccoli",
+            "carrots",
+            "snap peas",
+            "bell peppers",
+            "soy sauce",
+            "sesame oil",
+            "garlic",
+            "ginger",
+            "green onions"
+        ],
+        "instructions": "1. Press tofu to remove excess water, then cut into cubes. \n2. Heat sesame oil in a pan and sauté minced garlic and ginger until fragrant. \n3. Add tofu cubes and stir fry until golden brown. Remove tofu from the pan. \n4. In the same pan, add more sesame oil and stir fry broccoli, carrots, snap peas, and bell peppers until tender-crisp. \n5. Add cooked tofu back to the pan. Pour soy sauce over the mixture and toss to combine. \n6. Garnish with chopped green onions and serve over rice.",
+        "image": "images/pexels-kleine-beyers-2181151.jpg"
+    },
+    {
+        "title": "Chicken Caesar Salad",
+        "ingredients": [
+            "chicken breast",
+            "Romaine lettuce",
+            "croutons",
+            "Parmesan cheese",
+            "Caesar dressing"
+        ],
+        "instructions": "1. Season chicken breast with salt and black pepper, then grill or sauté until cooked through. Slice into strips. \n2. In a large bowl, toss Romaine lettuce with Caesar dressing until well coated. \n3. Add croutons and grated Parmesan cheese to the salad. \n4. Top the salad with sliced grilled chicken. \n5. Toss lightly and serve immediately.",
+        "image": "images/pexels-marianna-ole-764925.jpg"
+    },
+    {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+            "all-purpose flour",
+            "baking soda",
+            "salt",
+            "unsalted butter",
+            "brown sugar",
+            "granulated sugar",
+            "vanilla extract",
+            "eggs",
+            "chocolate chips"
+        ],
+        "instructions": "1. Preheat oven to 350°F (175°C). \n2. In a bowl, whisk together flour, baking soda, and salt. \n3. In another bowl, cream together softened butter, brown sugar, and granulated sugar until smooth. \n4. Beat in eggs one at a time, then stir in vanilla. \n5. Gradually add the flour mixture to the wet ingredients. \n6. Stir in chocolate chips. \n7. Drop rounded tablespoons of dough onto ungreased baking sheets. \n8. Bake for 10-12 minutes or until edges are golden brown. Cool on wire racks.",
+        "image": "images/pexels-leonardo-luz-14000524.jpg"
+    },
+    {
+        "title": "Chicken Noodle Soup",
+        "ingredients": [
+            "chicken thighs",
+            "chicken broth",
+            "carrots",
+            "celery",
+            "onion",
+            "garlic",
+            "egg noodles",
+            "bay leaf",
+            "parsley",
+            "salt",
+            "black pepper"
+        ],
+        "instructions": "1. In a large pot, bring chicken broth to a boil. Add chicken thighs, carrots, celery, onion, garlic, bay leaf, salt, and black pepper. Simmer until chicken is cooked through. \n2. Remove chicken from the pot, shred it, and return it to the soup. \n3. Add egg noodles and cook until tender. \n4. Stir in chopped parsley. Adjust seasoning with salt and pepper. \n5. Serve hot.",
+        "image": "images/pexels-katerina-holmes-5907999.jpg"
+    },
+    {
+        "title": "Guacamole",
+        "ingredients": [
+            "avocados",
+            "onion",
+            "tomato",
+            "lime juice",
+            "cilantro",
+            "salt",
+            "garlic",
+            "jalapeno pepper"
+        ],
+        "instructions": "1. Cut avocados in half, remove the pits, and scoop the flesh into a bowl. \n2. Mash avocados with a fork or potato masher until chunky. \n3. Add finely chopped onion, diced tomato, minced garlic, chopped cilantro, and finely chopped jalapeno pepper. \n4. Squeeze lime juice over the mixture and stir to combine. \n5. Season with salt to taste. \n6. Serve with tortilla chips or as a topping for tacos and nachos.",
+        "image": "images/pexels-rdne-stock-project-5737254.jpg"
+    },
+    {
+        "title": "Vegetable Curry",
+        "ingredients": [
+            "potatoes",
+            "carrots",
+            "onion",
+            "garlic",
+            "ginger",
+            "coconut milk",
+            "curry powder",
+            "vegetable broth",
+            "chickpeas",
+            "spinach",
+            "olive oil",
+            "salt",
+            "black pepper"
+        ],
+        "instructions": "1. Heat olive oil in a pot and sauté chopped onion, minced garlic, and grated ginger until fragrant. \n2. Add curry powder and stir for a minute. \n3. Add diced potatoes and carrots. Pour in vegetable broth and simmer until vegetables are tender. \n4. Stir in coconut milk, chickpeas, and spinach. Cook until spinach wilts. \n5. Season with salt and black pepper to taste. \n6. Serve hot with rice or naan bread.",
+        "image": "images/pexels-cats-coming-674574.jpg"
+    }
+]
